@@ -62,9 +62,11 @@ class Player
             return;
         }
 
+        $escaped_name = htmlentities(substr($name, 0, Player::NAME_LENGTH_LIMIT), ENT_QUOTES, 'UTF-8');
+
         getDatabase()->execute('UPDATE user SET name=:Name WHERE id=:Id',
-            array(':Name' => $name, ':Id' => $this->id));
-        $this->name = $name;
+            array(':Name' => $escaped_name, ':Id' => $this->id));
+        $this->name = $escaped_name;
     }
 
     public static function find_draft(Draft $draft)

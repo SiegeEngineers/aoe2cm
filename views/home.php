@@ -130,7 +130,7 @@ if (empty($_COOKIE['username'])){
 <div class="content">
 
 <div style="position:absolute;top:8px;right:8px;">
-	<div id="captain-name"><?php if(isset($_COOKIE['username'])){ echo $_COOKIE['username']; } ?></div>
+	<div id="captain-name"><?php if(isset($_COOKIE['username'])){ echo htmlentities(substr($_COOKIE['username'], 0, Player::NAME_LENGTH_LIMIT), ENT_QUOTES, 'UTF-8'); } ?></div>
 	<div id="themeswitcher"><span><?php echo _("switch theme"); ?></span></div>
 	<div id="languageswitcher" class="styled-select">
 		<select id="languages">

@@ -25,7 +25,7 @@ function join_game() {
 			}
 
 
-			$captain_name = (empty($_COOKIE['username'])) ? generate_random_name() : substr($_COOKIE['username'], 0, Constants::NAME_LENGTH_LIMIT);
+			$captain_name = (empty($_COOKIE['username'])) ? generate_random_name() : htmlentities(substr($_COOKIE['username'], 0, Player::NAME_LENGTH_LIMIT), ENT_QUOTES, 'UTF-8');
 
 			if(count($users) == 0 && !$known_user && $game_info['state'] == Constants::DRAFT_STATE_WAITING) {
 				$user_role = (isset($_REQUEST['role']) && $_REQUEST['role'] == 1)? 1 : 0;
@@ -126,7 +126,7 @@ function create_game() {
 		getDatabase()->execute('UPDATE game SET code=:Code WHERE id=:Id', array(':Code' => $generated_code, ':Id' => $game_id));
 		
 		if(!$host_game) {
-			$captain_name = (empty($_COOKIE['username'])) ? "Host Captain" : substr($_COOKIE['username'], 0, Constants::NAME_LENGTH_LIMIT);
+			$captain_name = (empty($_COOKIE['username'])) ? "Host Captain" : htmlentities(substr($_COOKIE['username'], 0, Player::NAME_LENGTH_LIMIT), ENT_QUOTES, 'UTF-8');
 			$user_id = getDatabase()->execute('INSERT INTO user (game_id, session_id, name) VALUES (:Game, :Session, :Name);',
 				array(':Game' => $game_id, ':Session' => session_id(), ':Name' => $captain_name));
 		}
