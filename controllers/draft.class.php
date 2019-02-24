@@ -46,7 +46,7 @@ class DraftController
         if(empty($_COOKIE['username'])) {
             return generate_random_name();
         } else {
-            return substr($_COOKIE['username'], 0, Player::NAME_LENGTH_LIMIT);
+            return htmlentities(substr($_COOKIE['username'], 0, Player::NAME_LENGTH_LIMIT), ENT_QUOTES, 'UTF-8');
         }
     }
 
