@@ -1,0 +1,1848 @@
+
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-31 15:48+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: controllers/draft.class.php:157
+msgid "Practice Opponent"
+msgstr "练习对手"
+
+#: controllers/draft.class.php:225
+msgid "spectate"
+msgstr "旁观"
+
+#: controllers/draft.class.php:248 lib/TurnsGrid.class.php:417
+msgid "Host"
+msgstr "主机"
+
+#: controllers/draft.class.php:248 lib/TurnsGrid.class.php:417
+msgid "Guest"
+msgstr "客机"
+
+#: controllers/home.class.php:12
+msgid "AoE2 Captains mode"
+msgstr "帝国时代2 BP模式"
+
+#: controllers/home.class.php:27 views/home.php:159
+msgid "Captains mode"
+msgstr "BP模式"
+
+#: lib/civgrid.class.php:78 lib/civgrid.class.php:344
+msgid "Unknown"
+msgstr "未知"
+
+#: lib/civgrid.class.php:79 lib/civgrid.class.php:345
+msgid "Different meanings based on the situation."
+msgstr "不同情况下有不同意思"
+
+#: lib/civgrid.class.php:81 lib/civgrid.class.php:347
+msgid ""
+"Random civ - when you see this as badge, <br />it means one of the captains "
+"didn't pick in time and a random civilization was picked for him."
+msgstr "随机民族 - 如果你看到此标签，说明有人没有按时选族，被自动分配了随机民族"
+
+#: lib/civgrid.class.php:82 lib/civgrid.class.php:348
+msgid ""
+"No ban - when you see this as banned, <br />it means no civilization got "
+"banned"
+msgstr "没有禁选 - 如果你看到此标签，说明规则没有要求禁民族"
+
+#: lib/civgrid.class.php:87 lib/civgrid.class.php:353
+msgid "Aztecs"
+msgstr "阿兹特克"
+
+#: lib/civgrid.class.php:88 lib/civgrid.class.php:354
+msgid "Infantry and Monk civilization"
+msgstr "步兵与僧侣民族"
+
+#: lib/civgrid.class.php:90 lib/civgrid.class.php:356
+msgid "Villagers carry +5"
+msgstr "村民携带量+5"
+
+#: lib/civgrid.class.php:91 lib/civgrid.class.php:357
+#, no-php-format
+msgid "Military units created 15% faster"
+msgstr "军事单位生产快15%"
+
+#: lib/civgrid.class.php:92 lib/civgrid.class.php:358
+msgid "+5 Monk hit points for each Monastery technology"
+msgstr "每个修道院科技给僧侣增加5血量"
+
+#: lib/civgrid.class.php:93
+msgid "Loom free"
+msgstr "免费织布机"
+
+#: lib/civgrid.class.php:95 lib/civgrid.class.php:361
+msgid "Jaguar Warrior"
+msgstr "美洲虎武士"
+
+#: lib/civgrid.class.php:96
+msgid "Garland Wars(+4 infantry attack)"
+msgstr "战争花环（+4步兵攻击）"
+
+#: lib/civgrid.class.php:98 lib/civgrid.class.php:364
+#, no-php-format
+msgid "Relics generate +33% gold"
+msgstr "圣物生成的黄金+33%"
+
+#: lib/civgrid.class.php:101 lib/civgrid.class.php:380
+msgid "Britons"
+msgstr "大不列颠"
+
+#: lib/civgrid.class.php:102 lib/civgrid.class.php:381
+msgid "Foot archer civilization"
+msgstr "步弓民族"
+
+#: lib/civgrid.class.php:104 lib/civgrid.class.php:383
+#, no-php-format
+msgid "Town Centers cost -50% wood upon reaching the Castle Age"
+msgstr "升级至城堡时代后城镇中心价格减少50%木材"
+
+#: lib/civgrid.class.php:105 lib/civgrid.class.php:384
+#, no-php-format
+msgid ""
+"Foot archers (excluding Skirmishers) have +1 range in Castle Age, <br /> +1 "
+"in Imperial Age (for +2 total)"
+msgstr "步弓系（不包括掷矛手）在城堡时代+1射程，到帝王时代后总共+2"
+
+#: lib/civgrid.class.php:106 lib/civgrid.class.php:385
+#, no-php-format
+msgid "Shepherds work 25% faster"
+msgstr "牧羊人工作快25%"
+
+#: lib/civgrid.class.php:108 lib/civgrid.class.php:387
+msgid "Longbowman"
+msgstr "长弓兵"
+
+#: lib/civgrid.class.php:109
+msgid "Yeomen (+1 Foot archer range; +2 tower attack)"
+msgstr "自耕农（+1步弓系射程，+2箭塔攻击）"
+
+#: lib/civgrid.class.php:111 lib/civgrid.class.php:390
+#, no-php-format
+msgid "Archery Ranges work 20% faster"
+msgstr "靶场工作快20%"
+
+#: lib/civgrid.class.php:114 lib/civgrid.class.php:393
+msgid "Byzantines"
+msgstr "拜占庭"
+
+#: lib/civgrid.class.php:115 lib/civgrid.class.php:394
+msgid "Defensive civilization"
+msgstr "防御型民族"
+
+#: lib/civgrid.class.php:117 lib/civgrid.class.php:396
+#, no-php-format
+msgid ""
+"Buildings have +10% HP in Dark Age, +20% HP in Feudal Age,<br /> +30% in "
+"Castle Age, +40% in Imperial Age."
+msgstr "建筑在黑暗时代+10%血量，封建时代+20%，城堡时代+30%，帝王时代+40%"
+
+#: lib/civgrid.class.php:118 lib/civgrid.class.php:397
+#, no-php-format
+msgid "Counter units cost 25% less"
+msgstr "克制型单位造价便宜25%"
+
+#: lib/civgrid.class.php:119 lib/civgrid.class.php:398
+#, no-php-format
+msgid "Fire Ships attack 20% faster"
+msgstr "喷火船攻击快20%"
+
+#: lib/civgrid.class.php:120 lib/civgrid.class.php:399
+#, no-php-format
+msgid "Imperial Age costs -33%"
+msgstr "升级帝王时代便宜33%"
+
+#: lib/civgrid.class.php:121 lib/civgrid.class.php:400
+msgid "Town Watch is free"
+msgstr "城镇瞭望免费升级"
+
+#: lib/civgrid.class.php:123 lib/civgrid.class.php:402
+msgid "Cataphract"
+msgstr "甲胄骑兵"
+
+#: lib/civgrid.class.php:124
+msgid "Logistica (Cataphracts cause trample damage)"
+msgstr "后勤学（甲胄骑兵获得践踏伤害）"
+
+#: lib/civgrid.class.php:126 lib/civgrid.class.php:405
+#, no-php-format
+msgid "Monks +50% heal speed"
+msgstr "僧侣治疗快50%"
+
+#: lib/civgrid.class.php:129 lib/civgrid.class.php:408
+msgid "Celts"
+msgstr "凯尔特"
+
+#: lib/civgrid.class.php:130 lib/civgrid.class.php:171
+#: lib/civgrid.class.php:199 lib/civgrid.class.php:295
+#: lib/civgrid.class.php:409 lib/civgrid.class.php:465
+#: lib/civgrid.class.php:493 lib/civgrid.class.php:534
+#: lib/civgrid.class.php:576 lib/civgrid.class.php:684
+msgid "Infantry civilization"
+msgstr "步兵民族"
+
+#: lib/civgrid.class.php:132 lib/civgrid.class.php:411
+#, no-php-format
+msgid "Infantry move 15% faster"
+msgstr "步兵移速快15%"
+
+#: lib/civgrid.class.php:133 lib/civgrid.class.php:412
+#, no-php-format
+msgid "Lumberjacks work 15% faster"
+msgstr "伐木工工作快15%"
+
+#: lib/civgrid.class.php:134 lib/civgrid.class.php:413
+#, no-php-format
+msgid "Siege weapons fire 20% faster"
+msgstr "攻城武器攻速快20%"
+
+#: lib/civgrid.class.php:135 lib/civgrid.class.php:414
+msgid "Sheep cannot be stolen if within one Celt unit's line of sight"
+msgstr "羊在视野内不会被偷"
+
+#: lib/civgrid.class.php:137 lib/civgrid.class.php:416
+msgid "Woad Raider"
+msgstr "靛蓝突击者"
+
+#: lib/civgrid.class.php:138
+#, no-php-format
+msgid "Furor Celtica (Siege Workshop Units +50% HP)"
+msgstr "凯尔特狂热（攻城武器+50%血量）"
+
+#: lib/civgrid.class.php:140 lib/civgrid.class.php:419
+#, no-php-format
+msgid "Siege Workshops work 20% faster"
+msgstr "攻城武器厂工作快20%"
+
+#: lib/civgrid.class.php:143 lib/civgrid.class.php:422
+msgid "Chinese"
+msgstr "中国"
+
+#: lib/civgrid.class.php:144 lib/civgrid.class.php:227
+#: lib/civgrid.class.php:423 lib/civgrid.class.php:438
+#: lib/civgrid.class.php:589
+msgid "Archer civilization"
+msgstr "步弓民族"
+
+#: lib/civgrid.class.php:146 lib/civgrid.class.php:425
+msgid "Start game with 3 extra villagers but -50 Wood and -150 Food"
+msgstr "开局多3村民但少50木材和150食物"
+
+#: lib/civgrid.class.php:147 lib/civgrid.class.php:426
+#, no-php-format
+msgid ""
+"Technologies cost -10% in Feudal Age, -15% in Castle Age,<br /> -20% in "
+"Imperial Age"
+msgstr "封建时代科技便宜10%，城堡时代便宜15%，帝王时代便宜20%"
+
+#: lib/civgrid.class.php:148 lib/civgrid.class.php:427
+msgid "Town Centers support 10 population instead of 5"
+msgstr "城镇中心算10人口而非5"
+
+#: lib/civgrid.class.php:149 lib/civgrid.class.php:429
+#, no-php-format
+msgid "Demolition Ships have +50% HP"
+msgstr "爆破船多50%血量"
+
+#: lib/civgrid.class.php:151 lib/civgrid.class.php:431
+msgid "Chu Ko Nu"
+msgstr "诸葛弩"
+
+#: lib/civgrid.class.php:152
+msgid "Rocketry (+2 Chu Ko Nu pierce attack, +4 scorpions)"
+msgstr "火箭学（诸葛弩+2远程攻击，弩炮+4攻击）"
+
+#: lib/civgrid.class.php:154 lib/civgrid.class.php:434
+msgid "Farms provide +45 food"
+msgstr "农田多产45食物"
+
+#: lib/civgrid.class.php:157 lib/civgrid.class.php:450
+msgid "Franks"
+msgstr "法兰克"
+
+#: lib/civgrid.class.php:158 lib/civgrid.class.php:186
+#: lib/civgrid.class.php:254 lib/civgrid.class.php:451
+#: lib/civgrid.class.php:480 lib/civgrid.class.php:563
+#: lib/civgrid.class.php:616
+msgid "Cavalry civilization"
+msgstr "骑兵民族"
+
+#: lib/civgrid.class.php:160 lib/civgrid.class.php:454
+#, no-php-format
+msgid "Castles are 25% cheaper"
+msgstr "城堡便宜25%"
+
+#: lib/civgrid.class.php:161 lib/civgrid.class.php:455
+#, no-php-format
+msgid "Knights have +20% HP"
+msgstr "骑士+20%血量"
+
+#: lib/civgrid.class.php:162 lib/civgrid.class.php:456
+msgid "Farm upgrades are free (Mill is required to receive bonus)"
+msgstr "农田科技免费（需要有磨坊）"
+
+#: lib/civgrid.class.php:164 lib/civgrid.class.php:458
+msgid "Throwing Axeman"
+msgstr "掷斧兵"
+
+#: lib/civgrid.class.php:165
+msgid "Bearded Axe (+1 Throwing Axeman range)"
+msgstr "芒刺斧（掷斧兵+1射程）"
+
+#: lib/civgrid.class.php:167 lib/civgrid.class.php:461
+msgid "Knights have +2 line of sight"
+msgstr "骑士+2视野"
+
+#: lib/civgrid.class.php:170 lib/civgrid.class.php:464
+msgid "Goths"
+msgstr "哥特"
+
+#: lib/civgrid.class.php:173
+#, no-php-format
+msgid "Infantry cost 33% less (starting in Feudal Age)"
+msgstr "步兵便宜33%（从封建时代开始）"
+
+#: lib/civgrid.class.php:174 lib/civgrid.class.php:468
+msgid "Infantry have +1 attack against buildings"
+msgstr "步兵对建筑+1攻击"
+
+#: lib/civgrid.class.php:175 lib/civgrid.class.php:469
+msgid "Villagers have +5 attack versus wild boar"
+msgstr "村民对野猪+5攻击"
+
+#: lib/civgrid.class.php:176 lib/civgrid.class.php:470
+msgid "Hunters carry +15 meat"
+msgstr "猎人能多携带15肉"
+
+#: lib/civgrid.class.php:177 lib/civgrid.class.php:471
+msgid "+10 to population limit in Imperial Age"
+msgstr "帝王时代后人口上限+10"
+
+#: lib/civgrid.class.php:179 lib/civgrid.class.php:473
+msgid "Huskarl"
+msgstr "近卫军"
+
+#: lib/civgrid.class.php:180 lib/civgrid.class.php:474
+#, no-php-format
+msgid ""
+"Anarchy (Create Huskarls at Barracks),Perfusion (Barracks units created 50% "
+"faster)"
+msgstr "无政府（能从兵营内生产近卫军），全民皆兵（兵营单位生产速度快50%）"
+
+#: lib/civgrid.class.php:182 lib/civgrid.class.php:476
+#, no-php-format
+msgid "Barracks operate 20% faster"
+msgstr "兵营生产速度快20%"
+
+#: lib/civgrid.class.php:185 lib/civgrid.class.php:479
+msgid "Huns"
+msgstr "匈奴"
+
+#: lib/civgrid.class.php:188 lib/civgrid.class.php:482
+msgid ""
+"Houses are not required to support population, start game with -100 Wood"
+msgstr "无需房子提供人口，开局少100木材"
+
+#: lib/civgrid.class.php:189
+#, no-php-format
+msgid "Cavalry Archers cost -25% in Castle Age, -30% in Imperial Age"
+msgstr "骑射在城堡时代便宜25%，帝王时代便宜30%"
+
+#: lib/civgrid.class.php:190 lib/civgrid.class.php:484
+#, no-php-format
+msgid "Trebuchets are 35% more accurate"
+msgstr "巨投精度+35%"
+
+#: lib/civgrid.class.php:192 lib/civgrid.class.php:486
+msgid "Tarkan"
+msgstr "答剌罕骑兵"
+
+#: lib/civgrid.class.php:193
+#, no-php-format
+msgid "Atheism (+100 years Wonder/Relic victory time; -50% Spies/Treason cost)"
+msgstr "无神论（+100年的奇观/圣物胜利时间，间谍科技便宜50%）"
+
+#: lib/civgrid.class.php:195 lib/civgrid.class.php:489
+#, no-php-format
+msgid "Stables are 20% faster"
+msgstr "马厩工作快20%"
+
+#: lib/civgrid.class.php:198 lib/civgrid.class.php:533
+msgid "Japanese"
+msgstr "日本"
+
+#: lib/civgrid.class.php:201 lib/civgrid.class.php:536
+msgid "Fishing Ships have 2x HP and +2 armor"
+msgstr "渔船有2倍血量和+2的远防"
+
+#: lib/civgrid.class.php:202 lib/civgrid.class.php:537
+#, no-php-format
+msgid ""
+"Fishing Ships work +5% faster in Dark Age, +10% in Feudal Age, <br />+15% in "
+"Castle Age, +20% in Imperial Age"
+msgstr "渔船在黑暗时代工作快5%，封建时代快10%，城堡时代快15%，帝王时代快20%"
+
+#: lib/civgrid.class.php:203 lib/civgrid.class.php:538
+#, no-php-format
+msgid "Lumber Camps, Mining Camps, and Mills are 50% cheaper"
+msgstr "伐木场，矿场和磨坊便宜50%"
+
+#: lib/civgrid.class.php:204 lib/civgrid.class.php:539
+#, no-php-format
+msgid "Infantry attack 25% faster (starting in Feudal Age)"
+msgstr "步兵攻击快25%（从封建时代开始）"
+
+#: lib/civgrid.class.php:206 lib/civgrid.class.php:541
+msgid "Samurai"
+msgstr "日本武士"
+
+#: lib/civgrid.class.php:207
+msgid "Kataparuto (Trebuchets fire, pack/unpack faster)"
+msgstr "弹射器（巨投攻击，打包，解包都加快）"
+
+#: lib/civgrid.class.php:209 lib/civgrid.class.php:544
+#, no-php-format
+msgid "Galleys have +50% line of sight"
+msgstr "战舰加50%视野"
+
+#: lib/civgrid.class.php:212 lib/civgrid.class.php:547
+msgid "Koreans"
+msgstr "高丽"
+
+#: lib/civgrid.class.php:213 lib/civgrid.class.php:548
+msgid "Tower and naval civilization"
+msgstr "箭塔和海军民族"
+
+#: lib/civgrid.class.php:215 lib/civgrid.class.php:550
+msgid "Villagers have +3 line of sight"
+msgstr "农民+3视野"
+
+#: lib/civgrid.class.php:216 lib/civgrid.class.php:551
+#, no-php-format
+msgid "Stone miners work 20% faster"
+msgstr "采石工人工作快20%"
+
+#: lib/civgrid.class.php:217 lib/civgrid.class.php:552
+msgid "Guard Tower and Keep upgrades are free"
+msgstr "警戒塔和要塞免费升级"
+
+#: lib/civgrid.class.php:218 lib/civgrid.class.php:553
+msgid ""
+"Towers (except bombard towers) have +1 range in Castle Age, +2 in Imperial "
+"Age"
+msgstr "箭塔在城堡时代+1射程，帝王时代+2射程"
+
+#: lib/civgrid.class.php:220 lib/civgrid.class.php:556
+msgid "War Wagon, Turtle Ship (Dock)"
+msgstr "战车，龟船（码头）"
+
+#: lib/civgrid.class.php:221
+msgid "Shinkichon (+1 range Mangonels, Onagers)"
+msgstr "神机箭（投石车+1射程）"
+
+#: lib/civgrid.class.php:223
+msgid "Mangonel line has +1 range"
+msgstr "投石车+1射程"
+
+#: lib/civgrid.class.php:226 lib/civgrid.class.php:588
+msgid "Mayans"
+msgstr "玛雅"
+
+#: lib/civgrid.class.php:229 lib/civgrid.class.php:591
+msgid "Start with Eagle Warrior"
+msgstr "开局拥有鹰勇士"
+
+#: lib/civgrid.class.php:230 lib/civgrid.class.php:592
+msgid "Start game with 1 extra villager, -50 Food"
+msgstr "开局多1村民，少50食物"
+
+#: lib/civgrid.class.php:231 lib/civgrid.class.php:593
+#, no-php-format
+msgid "Natural resources last 20% longer"
+msgstr "自然资源可多采集20%"
+
+#: lib/civgrid.class.php:232 lib/civgrid.class.php:594
+#, no-php-format
+msgid ""
+"Archers cost -10% in Feudal Age, -20% in Castle Age, -30% in Imperial Age"
+msgstr "步弓系在封建时代便宜10%，城堡时代便宜20%，帝王时代便宜30%"
+
+#: lib/civgrid.class.php:234 lib/civgrid.class.php:596
+msgid "Plumed Archer"
+msgstr "羽箭手"
+
+#: lib/civgrid.class.php:235
+msgid "El Dorado (+40 Eagle Warrior HP)"
+msgstr "黄金国（雄鹰战士+40血量）"
+
+#: lib/civgrid.class.php:237 lib/civgrid.class.php:599
+#, no-php-format
+msgid "Walls are 50% cheaper"
+msgstr "墙类便宜50%"
+
+#: lib/civgrid.class.php:240 lib/civgrid.class.php:602
+msgid "Mongols"
+msgstr "蒙古"
+
+#: lib/civgrid.class.php:241 lib/civgrid.class.php:603
+msgid "Cavalry Archer civilization"
+msgstr "骑射民族"
+
+#: lib/civgrid.class.php:243 lib/civgrid.class.php:605
+#, no-php-format
+msgid "Cavalry Archers fire 20% faster"
+msgstr "骑射攻击快20%"
+
+#: lib/civgrid.class.php:244 lib/civgrid.class.php:606
+#, no-php-format
+msgid "Light Cavalry and Hussars have +30% HP"
+msgstr "轻骑兵和翼骑兵多30%血量"
+
+#: lib/civgrid.class.php:245 lib/civgrid.class.php:607
+#, no-php-format
+msgid "Hunters work 50% faster"
+msgstr "狩猎者工作快50%"
+
+#: lib/civgrid.class.php:247 lib/civgrid.class.php:609
+msgid "Mangudai"
+msgstr "蒙古突骑"
+
+#: lib/civgrid.class.php:248
+#, no-php-format
+msgid "Drill (Siege Workshop units move 50% faster)"
+msgstr "操练（攻城武器厂单位移动快50%）"
+
+#: lib/civgrid.class.php:250 lib/civgrid.class.php:612
+msgid "Scout line has +2 line of sight"
+msgstr "肉马+2视野"
+
+#: lib/civgrid.class.php:253 lib/civgrid.class.php:615
+msgid "Persians"
+msgstr "波斯"
+
+#: lib/civgrid.class.php:256 lib/civgrid.class.php:618
+msgid "Start game with +50 wood and food"
+msgstr "开局多50木材和食物"
+
+#: lib/civgrid.class.php:257 lib/civgrid.class.php:619
+msgid "Town Center and Docks have 2x HP"
+msgstr "城镇中心和码头血量x2"
+
+#: lib/civgrid.class.php:258 lib/civgrid.class.php:620
+#, no-php-format
+msgid ""
+"Town Centers and Docks operate +10% faster in Feudal Age, <br /> +15% in "
+"Castle Age, +20% in Imperial Age"
+msgstr "城镇中心和码头在封建时代工作快10%，城堡时代快15%，帝王时代快20%"
+
+#: lib/civgrid.class.php:260 lib/civgrid.class.php:622
+msgid "War Elephant"
+msgstr "战象"
+
+#: lib/civgrid.class.php:261
+#, no-php-format
+msgid "Mahouts (+30% War Elephant speed)"
+msgstr "象夫（战象移速快30%）"
+
+#: lib/civgrid.class.php:263 lib/civgrid.class.php:625
+msgid "Knights have +2 attack versus Archers"
+msgstr "骑士对射手系+2攻击"
+
+#: lib/civgrid.class.php:266 lib/civgrid.class.php:641
+msgid "Saracens"
+msgstr "撒拉逊"
+
+#: lib/civgrid.class.php:267 lib/civgrid.class.php:642
+msgid "Camel and Naval civilization"
+msgstr "骆驼和海军民族"
+
+#: lib/civgrid.class.php:269 lib/civgrid.class.php:645
+#, no-php-format
+msgid "Market trade cost is only 5%"
+msgstr "市场买卖税降至5%"
+
+#: lib/civgrid.class.php:270 lib/civgrid.class.php:646
+msgid "Transport Ships have 2x HP and carry capacity"
+msgstr "运输船有2倍血量和容量"
+
+#: lib/civgrid.class.php:271 lib/civgrid.class.php:647
+#, no-php-format
+msgid "Galleys attack 20% faster"
+msgstr "战舰攻击快20%"
+
+#: lib/civgrid.class.php:272 lib/civgrid.class.php:648
+msgid "Cavalry Archers have +4 attack against buildings"
+msgstr "骑射系对建筑+4攻击"
+
+#: lib/civgrid.class.php:274 lib/civgrid.class.php:650
+msgid "Mameluke"
+msgstr "马穆鲁克"
+
+#: lib/civgrid.class.php:275
+msgid "Zealotry (+30 camel, Mameluke HP)"
+msgstr "狂热（骆驼与马穆鲁克+30血量）"
+
+#: lib/civgrid.class.php:277 lib/civgrid.class.php:653
+msgid "Foot archers have +2 attack against buildings"
+msgstr "步弓系对建筑+2攻击"
+
+#: lib/civgrid.class.php:280 lib/civgrid.class.php:669
+msgid "Spanish"
+msgstr "西班牙"
+
+#: lib/civgrid.class.php:281 lib/civgrid.class.php:670
+msgid "Gunpowder and Monk civilization"
+msgstr "火药与僧侣民族"
+
+#: lib/civgrid.class.php:283 lib/civgrid.class.php:672
+#, no-php-format
+msgid "Villagers construct buildings 30% faster"
+msgstr "村民建造速度快30%"
+
+#: lib/civgrid.class.php:284 lib/civgrid.class.php:673
+msgid "Blacksmith upgrades do not cost any gold"
+msgstr "铁匠铺升级无需黄金"
+
+#: lib/civgrid.class.php:285 lib/civgrid.class.php:674
+msgid ""
+"Cannon Galleons benefit from Ballistics (improved fire rate and accuracy)"
+msgstr "炮舰有弹道学（增强攻速和精度）"
+
+#: lib/civgrid.class.php:286 lib/civgrid.class.php:675
+#, no-php-format
+msgid "Hand Cannoneers and Bombard Cannons fire 15% faster"
+msgstr "火枪手和小炮攻击快15%"
+
+#: lib/civgrid.class.php:288 lib/civgrid.class.php:677
+msgid "Conquistador, Missionary"
+msgstr "西班牙征服者，传教士"
+
+#: lib/civgrid.class.php:289
+msgid "Supremacy (Villager combat attributes increased)"
+msgstr "霸权（村民属性加强）"
+
+#: lib/civgrid.class.php:291 lib/civgrid.class.php:680
+#, no-php-format
+msgid "Trade units generate +33%"
+msgstr "贸易单位产金+33%"
+
+#: lib/civgrid.class.php:294 lib/civgrid.class.php:683
+msgid "Teutons"
+msgstr "条顿"
+
+#: lib/civgrid.class.php:297 lib/civgrid.class.php:686
+msgid "Monks have 2x healing range"
+msgstr "僧侣治疗距离x2"
+
+#: lib/civgrid.class.php:298 lib/civgrid.class.php:687
+msgid "Towers can garrison 2x units"
+msgstr "箭塔可驻扎2倍单位"
+
+#: lib/civgrid.class.php:299 lib/civgrid.class.php:688
+msgid "Murder Holes is free"
+msgstr "射击孔免费"
+
+#: lib/civgrid.class.php:300 lib/civgrid.class.php:689
+#, no-php-format
+msgid "Farms cost 33% less"
+msgstr "农田便宜33%"
+
+#: lib/civgrid.class.php:301
+msgid "Town Centers have +2 attack and +5 line of sight"
+msgstr "城镇中心+2攻击，+5视野"
+
+#: lib/civgrid.class.php:303 lib/civgrid.class.php:692
+msgid "Teutonic Knight"
+msgstr "条顿武士"
+
+#: lib/civgrid.class.php:304
+msgid "Crenellations (+3 Castle range; garrisoned infantry fire arrows)"
+msgstr "垛口（+3城堡射程；驻扎的步兵可射箭）"
+
+#: lib/civgrid.class.php:306 lib/civgrid.class.php:695
+msgid "Units are more resistant to conversion"
+msgstr "单位对招降有抗性"
+
+#: lib/civgrid.class.php:309 lib/civgrid.class.php:698
+msgid "Turks"
+msgstr "土耳其"
+
+#: lib/civgrid.class.php:310 lib/civgrid.class.php:699
+msgid "Gunpowder civilization"
+msgstr "火药民族"
+
+#: lib/civgrid.class.php:312 lib/civgrid.class.php:701
+#, no-php-format
+msgid "Gunpowder Units have +25% HP"
+msgstr "火药单位+25%血量"
+
+#: lib/civgrid.class.php:313 lib/civgrid.class.php:702
+#, no-php-format
+msgid "Gunpowder technologies cost 50% less"
+msgstr "火药科技便宜50%"
+
+#: lib/civgrid.class.php:314 lib/civgrid.class.php:703
+msgid "Chemistry is free"
+msgstr "化学免费"
+
+#: lib/civgrid.class.php:315 lib/civgrid.class.php:704
+#, no-php-format
+msgid "Gold miners work 15% faster"
+msgstr "采金工人工作快15%"
+
+#: lib/civgrid.class.php:316 lib/civgrid.class.php:705
+msgid "Light Cavalry and Hussar upgrades are free"
+msgstr "轻骑兵和翼骑兵升级免费"
+
+#: lib/civgrid.class.php:318 lib/civgrid.class.php:707
+msgid "Janissary"
+msgstr "苏丹亲兵"
+
+#: lib/civgrid.class.php:319
+msgid "Artillery (+2 range Bombard Towers, Bombard Cannons, Cannon Galleons)"
+msgstr "炮兵（炮塔，小炮，炮舰射程+2）"
+
+#: lib/civgrid.class.php:321 lib/civgrid.class.php:710
+#, no-php-format
+msgid "Gunpowder units are created 20% faster"
+msgstr "火药单位生产快20%"
+
+#: lib/civgrid.class.php:324 lib/civgrid.class.php:713
+msgid "Vikings"
+msgstr "维京"
+
+#: lib/civgrid.class.php:325 lib/civgrid.class.php:714
+msgid "Infantry and naval civilization"
+msgstr "步兵和海军民族"
+
+#: lib/civgrid.class.php:327
+#, no-php-format
+msgid "Warships cost 25% less"
+msgstr "战船便宜25%"
+
+#: lib/civgrid.class.php:328 lib/civgrid.class.php:717
+#, no-php-format
+msgid ""
+"Infantry have +10% HP in Feudal Age, +15% in Castle Age, <br /> +20% in "
+"Imperial Age"
+msgstr "步兵在封建时代+10%血量，城堡时代+15%，帝王时代+20%"
+
+#: lib/civgrid.class.php:329 lib/civgrid.class.php:718
+#, no-php-format
+msgid "Wheelbarrow and Hand Cart are free"
+msgstr "独轮车和手推车免费"
+
+#: lib/civgrid.class.php:331 lib/civgrid.class.php:720
+msgid "Berserker, Longboat (Dock)"
+msgstr "狂战士，龙头战舰（码头）"
+
+#: lib/civgrid.class.php:332
+msgid "Berserkergang (Berserks regenerate faster)"
+msgstr "狂战士公会（狂战士加快恢复血量）"
+
+#: lib/civgrid.class.php:334
+#, no-php-format
+msgid "Docks are 25% cheaper"
+msgstr "码头便宜25%"
+
+#: lib/civgrid.class.php:359
+msgid "Start with +50 gold"
+msgstr "开局+50黄金"
+
+#: lib/civgrid.class.php:362
+msgid ""
+"Atlatl(skirmishers +1 range, +1 pierce attack),Garland Wars(+4 infantry "
+"attack)"
+msgstr "投枪器（掷矛手+1射程，+1攻击），战争花环（步兵攻击+4）"
+
+#: lib/civgrid.class.php:367
+msgid "Berbers"
+msgstr "柏柏尔"
+
+#: lib/civgrid.class.php:368
+msgid "Cavalry and Naval civilization"
+msgstr "骑兵和海军民族"
+
+#: lib/civgrid.class.php:370
+#, no-php-format
+msgid "Villagers move 10% faster"
+msgstr "农民移动快10%"
+
+#: lib/civgrid.class.php:371
+#, no-php-format
+msgid "Ships move 10% faster"
+msgstr "船只移动快10%"
+
+#: lib/civgrid.class.php:372
+#, no-php-format
+msgid "Stable units cost -20%"
+msgstr "马厩单位便宜20%"
+
+#: lib/civgrid.class.php:374
+msgid "Camel Archers, Genitour"
+msgstr "骆驼射手，标枪骑兵"
+
+#: lib/civgrid.class.php:375
+#, no-php-format
+msgid ""
+"Kasbah(castles work 25% faster), Maghrabi Camel(camel troops regenerate)"
+msgstr "土堡（城堡工作快25%），摩洛哥骆驼（骆驼部队能够回血）"
+
+#: lib/civgrid.class.php:377
+msgid "Genitour available in archery range"
+msgstr "可在靶场内生产标枪骑兵"
+
+#: lib/civgrid.class.php:388
+#, no-php-format
+msgid ""
+"Yeomen (+1 Foot archer range; +2 tower attack), Warwolf(Trebuchets 100% "
+"accuracy +0.5 blast radius)"
+msgstr "自耕农（+1步弓系射程，+2箭塔攻击），战狼号（巨投精度100%，+0.5溅射范围）"
+
+#: lib/civgrid.class.php:403
+msgid ""
+"Greek Fire (Fire ships +1 range),Logistica (Cataphracts cause trample damage)"
+msgstr "希腊火（喷火船+1射程），后勤学（甲胄骑兵获得践踏伤害）"
+
+#: lib/civgrid.class.php:417
+#, no-php-format
+msgid ""
+"Stronghold (Castles, towers -20% reload time), Furor Celtica (Siege Workshop "
+"Units +50% HP)"
+msgstr "堡垒（城堡，箭塔-20%攻击间隔），凯尔特狂热（攻城武器厂单位+50%血量）"
+
+#: lib/civgrid.class.php:428
+msgid "Town Centers +5 LOS"
+msgstr "城镇中心+5视野"
+
+#: lib/civgrid.class.php:432
+#, no-php-format
+msgid ""
+"Great Wall (Walls, gates, towers +30% HP), Rocketry (+2 Chu Ko Nu pierce "
+"attack, +4 scorpions)"
+msgstr "长城（墙类，门类，塔类+30%血量），火箭学（诸葛弩+2远程攻击，弩炮+4攻击）"
+
+#: lib/civgrid.class.php:437
+msgid "Ethiopians"
+msgstr "埃塞俄比亚"
+
+#: lib/civgrid.class.php:440
+msgid "Receive 100F 100G upon advancing to next age"
+msgstr "升级到下一时代时得到100食物和100黄金"
+
+#: lib/civgrid.class.php:441
+msgid "Pikeman and Halberdier upgrades are free"
+msgstr "枪兵升级免费"
+
+#: lib/civgrid.class.php:442
+#, no-php-format
+msgid "Foot archers 15% faster reload"
+msgstr "步弓系射速快15%"
+
+#: lib/civgrid.class.php:444
+msgid "Shotel Warrior"
+msgstr "弯刀勇士"
+
+#: lib/civgrid.class.php:445
+msgid ""
+"Royal Heirs (Shotel warrior created 2x faster), Torsion Engines (+0.45 blast "
+"radius for siege workshop units)"
+msgstr "龙脉（弯刀勇士生产速度x2），扭绞机（攻城武器厂单位+0.45溅射范围）"
+
+#: lib/civgrid.class.php:447
+msgid "Towers, outposts +3 LOS"
+msgstr "塔类，哨所+3视野"
+
+#: lib/civgrid.class.php:453
+#, no-php-format
+msgid "Foragers work 25% faster"
+msgstr "采果人工作快25%"
+
+#: lib/civgrid.class.php:459
+#, no-php-format
+msgid ""
+"Chivalry (stables work 40% faster), Bearded Axe (+1 Throwing Axeman range)"
+msgstr "骑士精神（马厩工作快40%），芒刺斧（掷斧兵+1射程）"
+
+#: lib/civgrid.class.php:467
+#, no-php-format
+msgid "Infantry cost 35% less (starting in Feudal Age)"
+msgstr "步兵便宜35%（封建时代开始）"
+
+#: lib/civgrid.class.php:483
+#, no-php-format
+msgid "Cavalry Archers cost -10% in Castle Age, -20% in Imperial Age"
+msgstr "骑射在城堡时代便宜10%，帝王时代便宜20%"
+
+#: lib/civgrid.class.php:487
+msgid ""
+"Marauders (Tarkans available in stables), Atheism (+100 years Wonder/Relic "
+"victory time; -50% Spies/Treason cost)"
+msgstr "掠夺者（答剌罕骑兵可在马厩内生产），无神论（+100年的奇观/圣物胜利时间，间谍科技便宜50%）"
+
+#: lib/civgrid.class.php:492
+msgid "Incas"
+msgstr "印加"
+
+#: lib/civgrid.class.php:495
+msgid "Start with free llama"
+msgstr "开局送羊驼"
+
+#: lib/civgrid.class.php:496
+msgid "Villagers affected by blacksmith upgrades"
+msgstr "村民受铁匠铺科技升级"
+
+#: lib/civgrid.class.php:497
+msgid "Houses support 10 population"
+msgstr "房子支持10人口"
+
+#: lib/civgrid.class.php:498
+#, no-php-format
+msgid "Buildings cost -15% stone"
+msgstr "建筑便宜15%的石头"
+
+#: lib/civgrid.class.php:500
+msgid "Kamayuk, Slinger (Archery Range)"
+msgstr "印加枪兵长，投石手（靶场）"
+
+#: lib/civgrid.class.php:501
+msgid ""
+"Andean Sling (skirmishers, slinger no minimum range), Couriers (eagles, "
+"kamayuks, slingers +1/+2 armor)"
+msgstr "安第斯弹弓（投矛手和投石手消除最小射程），信使（雄鹰系，枪兵长和投石手+1/+2护甲）"
+
+#: lib/civgrid.class.php:503
+#, no-php-format
+msgid "Farms built 50% faster"
+msgstr "农田造得快50%"
+
+#: lib/civgrid.class.php:506
+msgid "Indians"
+msgstr "印度"
+
+#: lib/civgrid.class.php:507
+msgid "Camel and Gunpowder civilization"
+msgstr "骆驼和火药民族"
+
+#: lib/civgrid.class.php:509
+#, no-php-format
+msgid ""
+"Villagers Cost -10% in Dark, -15% in Feudal, -20% in Castle, -25% in Imperial"
+msgstr "村民在黑暗时代便宜10%，封建时代便宜15%，城堡时代便宜20%，帝王时代便宜25%"
+
+#: lib/civgrid.class.php:510
+#, no-php-format
+msgid "Fishermen(villagers) work 15% faster and carry +15"
+msgstr "渔民工作快15%并且携带量+15"
+
+#: lib/civgrid.class.php:511
+msgid "Camels +1/+1 armor"
+msgstr "骆驼+1/+1护甲"
+
+#: lib/civgrid.class.php:513
+msgid "Elephant Archer, Imperial Camel (Stable)"
+msgstr "大象射手，帝王骆驼（马厩）"
+
+#: lib/civgrid.class.php:514
+#, no-php-format
+msgid ""
+"Sultans (gold miners +10% faster, trade units +10% gold, relics +5G/min), "
+"Shatagni (hand cannoneers +1 range)"
+msgstr "苏丹王（金矿工工作快10%，贸易多10%，圣物每分钟多产5金），殛百之火（火枪手+1射程）"
+
+#: lib/civgrid.class.php:516
+msgid "Camels +6 attack vs buildings"
+msgstr "骆驼系对建筑+6攻击"
+
+#: lib/civgrid.class.php:519
+msgid "Italians"
+msgstr "意大利"
+
+#: lib/civgrid.class.php:520
+msgid "Archer and Naval civilization"
+msgstr "步弓和海军民族"
+
+#: lib/civgrid.class.php:522
+#, no-php-format
+msgid "Advancing to the next age costs -15%"
+msgstr "升级时代便宜15%"
+
+#: lib/civgrid.class.php:523
+#, no-php-format
+msgid "Dock techs cost -50%"
+msgstr "码头科技便宜50%"
+
+#: lib/civgrid.class.php:524
+msgid "Fishing ships +2 LOS"
+msgstr "渔船+2视野"
+
+#: lib/civgrid.class.php:525
+#, no-php-format
+msgid "Gunpowder units cost -15%"
+msgstr "火药部队便宜15%"
+
+#: lib/civgrid.class.php:527
+msgid "Genoese crossbowman, Condottiero(Barracks)"
+msgstr "热那亚弩手，意大利佣兵（兵营）"
+
+#: lib/civgrid.class.php:528
+#, no-php-format
+msgid "Pavise (foot archers +1/+1 armor), Silk road (trade units cost -50%)"
+msgstr "大盾（步弓系+1/+1护甲），丝绸之路（贸易单位便宜50%）"
+
+#: lib/civgrid.class.php:530
+msgid "Condottiero available in imperial barracks"
+msgstr "意大利佣兵可在帝王时代的兵营内生产"
+
+#: lib/civgrid.class.php:542
+msgid ""
+"Yasama (towers shoot +3 arrows), Kataparuto (Trebuchets fire, pack/unpack "
+"faster)"
+msgstr "射箭孔（箭塔+3箭），弹射器（巨投攻击，打包，解包都加快）"
+
+#: lib/civgrid.class.php:554
+#, no-php-format
+msgid ""
+"Fortifications (walls except gates, castles, towers) are built 25% faster"
+msgstr "防御建筑（城墙但不算城门，城堡，塔类）建造快25%"
+
+#: lib/civgrid.class.php:557
+#, no-php-format
+msgid ""
+"Panokseon (turtle ships move 15% faster), Shinkichon (+1 range Mangonels, "
+"Onagers)"
+msgstr "板屋船（龟船移动快15%），神机箭（投石车+1射程）"
+
+#: lib/civgrid.class.php:559
+msgid "Mangonel minimum range 1 (instead of 3)"
+msgstr "投石车最小射程从3变成1"
+
+#: lib/civgrid.class.php:562
+msgid "Magyars"
+msgstr "马扎尔"
+
+#: lib/civgrid.class.php:565
+msgid "Villagers kill wolves in 1 strike"
+msgstr "村民一击杀狼"
+
+#: lib/civgrid.class.php:566
+msgid ""
+"Melee upgrades (forging, iron casting, blast furnace) in blacksmith free "
+"(requires blacksmith)"
+msgstr "铁匠铺的近战攻击科技免费升级（需要有铁匠铺）"
+
+#: lib/civgrid.class.php:567
+#, no-php-format
+msgid "Scout line costs -10%"
+msgstr "（肉马系便宜10%）"
+
+#: lib/civgrid.class.php:569
+msgid "Magyar Huszar"
+msgstr "马扎尔骠骑"
+
+#: lib/civgrid.class.php:570
+msgid ""
+"Mercenaries (Magyar Huszar costs no gold), Recurve bow (Cavalry archers +1 "
+"range)"
+msgstr "雇佣兵（马扎尔骠骑无需黄金生产），反曲弓（骑射+1射程）"
+
+#: lib/civgrid.class.php:572
+msgid "Foot archers (not skirmishers) +2 LOS"
+msgstr "步弓系（无投矛手）+2视野"
+
+#: lib/civgrid.class.php:575
+msgid "Malians"
+msgstr "马里"
+
+#: lib/civgrid.class.php:578
+msgid "Barracks units get +1 pierce armor per age"
+msgstr "兵营单位每升级时代+1远防"
+
+#: lib/civgrid.class.php:579
+#, no-php-format
+msgid "Buildings, farms wood cost -15%"
+msgstr "建筑，农田木材便宜15%"
+
+#: lib/civgrid.class.php:580
+msgid "Gold mining upgrades free"
+msgstr "金矿科技免费升级"
+
+#: lib/civgrid.class.php:582
+msgid "Gbeto"
+msgstr "飞刀兵"
+
+#: lib/civgrid.class.php:583
+msgid ""
+"Tigui (TC fire arrows without garrisoned villagers), Farimba (Cavalry, "
+"camels +5 attack)"
+msgstr "蛮王(城镇中心无需村民驻扎可射箭)，死士（骑兵和骆驼+5攻击）"
+
+#: lib/civgrid.class.php:585
+#, no-php-format
+msgid "University operates 80% faster"
+msgstr "大学工作快80%"
+
+#: lib/civgrid.class.php:597
+msgid ""
+"Obsidian Arrow (archer line +6 attack vs buildings), El Dorado (+40 Eagle "
+"Warrior HP)"
+msgstr "黑曜石箭（步弓对建筑+6攻击），黄金国（雄鹰系+40血量）"
+
+#: lib/civgrid.class.php:610
+#, no-php-format
+msgid ""
+"Nomads (destroyed houses don't loose population room), Drill (Siege Workshop "
+"units move 50% faster)"
+msgstr "游牧民族（拆房子不会掉人口），操练（攻城武器厂单位移动快50%）"
+
+#: lib/civgrid.class.php:623
+#, no-php-format
+msgid ""
+"Boiling Oil (Castles +9 attack vs rams), Mahouts (+30% War Elephant speed)"
+msgstr "沸油（城堡对冲车+9攻击），象夫（战象移速快30%）"
+
+#: lib/civgrid.class.php:628
+msgid "Portuguese"
+msgstr "葡萄牙"
+
+#: lib/civgrid.class.php:629
+msgid "Naval and Gunpowder civilization"
+msgstr "海军与火药民族"
+
+#: lib/civgrid.class.php:631
+#, no-php-format
+msgid "All units cost -15% gold"
+msgstr "所有单位便宜15%黄金"
+
+#: lib/civgrid.class.php:632
+#, no-php-format
+msgid "All ships +10% HP"
+msgstr "所有船只+10%血量"
+
+#: lib/civgrid.class.php:633
+msgid "Get Feitoria"
+msgstr "有大商站"
+
+#: lib/civgrid.class.php:635
+msgid "Organ Gun, Caravel (dock)"
+msgstr "风琴炮，卡拉维尔战舰（码头）"
+
+#: lib/civgrid.class.php:636
+msgid ""
+"Carrack (ships +1/+1 armor), Arquebus (gunpowder units affected by "
+"ballistics)"
+msgstr "大帆船（船只+1/+1护甲），火绳枪（火药单位获得弹道学加成）"
+
+#: lib/civgrid.class.php:638
+msgid "Free cartography from Dark Age"
+msgstr "黑暗时代就免费开图"
+
+#: lib/civgrid.class.php:644
+msgid "Market costs -75 wood"
+msgstr "市场便宜75木材"
+
+#: lib/civgrid.class.php:651
+#, no-php-format
+msgid ""
+"Madrasah (monks return 33% of their cost), Zealotry (+30 camel, Mameluke HP)"
+msgstr "清真学堂（僧侣死后返还33%黄金），狂热（骆驼与马穆鲁克+30血量）"
+
+#: lib/civgrid.class.php:656
+msgid "Slavs"
+msgstr "斯拉夫"
+
+#: lib/civgrid.class.php:657
+msgid "Infantry and siege civilization"
+msgstr "步兵与攻城武器民族"
+
+#: lib/civgrid.class.php:659
+#, no-php-format
+msgid "Farmers work ~15% faster without upgrades"
+msgstr "农民无任何科技加成时工作快15%"
+
+#: lib/civgrid.class.php:660
+msgid "Tracking free"
+msgstr "免费跟踪术"
+
+#: lib/civgrid.class.php:661
+#, no-php-format
+msgid "Siege units from siege workshop 15% cheaper"
+msgstr "攻城武器厂单位便宜15%"
+
+#: lib/civgrid.class.php:663
+msgid "Boyar"
+msgstr "贵族铁骑"
+
+#: lib/civgrid.class.php:664
+msgid ""
+"Orthodoxy (monks +3/+3 armor), Druzhina (infantry do 5 damage to adjecent "
+"enemy units)"
+msgstr "东正教（僧侣+3/+3护甲），皇家卫队（步兵获得践踏伤害）"
+
+#: lib/civgrid.class.php:666
+msgid "Military buildings provide +5 population"
+msgstr "军事建筑可支持5人口"
+
+#: lib/civgrid.class.php:678
+msgid ""
+"Inquisition (monks convert faster), Supremacy (Villager combat attributes "
+"increased)"
+msgstr "宗教法庭（僧侣招降更快），霸权（村民属性加强）"
+
+#: lib/civgrid.class.php:690
+msgid "Town Centers garrison +10 units, shoot +5 arrows"
+msgstr "城镇中心可多驻扎10单位，多射5箭"
+
+#: lib/civgrid.class.php:693
+msgid ""
+"Ironclad (siege weapons +4/+0 armor), Crenellations (+3 Castle range; "
+"garrisoned infantry fire arrows)"
+msgstr "铁甲（攻城武器+4近防），垛口（+3城堡射程；驻扎的步兵可射箭）"
+
+#: lib/civgrid.class.php:708
+msgid ""
+"Sipahi (Cavalry archers +20HP), Artillery (+2 range Bombard Towers, Bombard "
+"Cannons, Cannon Galleons)"
+msgstr "突厥骑射（骑射系+20血），炮兵（炮塔，小炮，炮舰射程+2）"
+
+#: lib/civgrid.class.php:716
+#, no-php-format
+msgid "Warships cost -10% in Feudal, -15% in Castle, -20% in Imperial Age"
+msgstr "战船在封建时代便宜10%，城堡时代便宜15%，帝王时代便宜20%"
+
+#: lib/civgrid.class.php:721
+msgid ""
+"Chieftains (Berserks +5 attack vs cavalry), Berserkergang (Berserks "
+"regenerate faster)"
+msgstr "酋长（狂战士对骑兵系+5攻击），狂战士公会（狂战士加快恢复血量）"
+
+#: lib/civgrid.class.php:723
+#, no-php-format
+msgid "Docks cost -15%"
+msgstr "码头便宜15%"
+
+#: lib/TurnsGrid.class.php:165 lib/TurnsGrid.class.php:168
+#: lib/TurnsGrid.class.php:210 lib/TurnsGrid.class.php:241
+#: lib/TurnsGrid.class.php:246 lib/TurnsGrid.class.php:264
+msgid "Player"
+msgstr "玩家"
+
+#: lib/TurnsGrid.class.php:171
+msgid "None"
+msgstr "无"
+
+#: lib/TurnsGrid.class.php:211 lib/TurnsGrid.class.php:265
+msgid "Action"
+msgstr "行为"
+
+#: lib/TurnsGrid.class.php:212
+msgid "Hidden"
+msgstr "隐藏"
+
+#: lib/TurnsGrid.class.php:266
+msgid "Civilization"
+msgstr "民族"
+
+#: lib/TurnsGrid.class.php:304 lib/TurnsGrid.class.php:361
+msgid "Start"
+msgstr "开始"
+
+#: lib/TurnsGrid.class.php:326
+msgid "End"
+msgstr "结束"
+
+#: lib/TurnsGrid.class.php:342
+msgid "Error updating the draft state."
+msgstr "更新BP状态错误"
+
+#: lib/TurnsGrid.class.php:343
+msgid "Error sending ready."
+msgstr "发送准备错误"
+
+#: lib/TurnsGrid.class.php:344
+msgid "Error starting draft."
+msgstr "开始BP错误"
+
+#: lib/TurnsGrid.class.php:345
+msgid "Error picking/banning civ."
+msgstr "BP民族错误"
+
+#: lib/TurnsGrid.class.php:346
+msgid "Error setting name."
+msgstr "设置名字错误"
+
+#: lib/TurnsGrid.class.php:347
+msgid "<span class='green-glow'><b>Pick</b></span> a civilization!"
+msgstr "<span class='green-glow'><b>选</b></span>一个民族！"
+
+#: lib/TurnsGrid.class.php:348
+msgid "<span class='red-glow'><b>Ban</b></span> a civilization for the enemy!"
+msgstr "<span class='red-glow'><b>禁</b></span>对手一个民族！"
+
+#: lib/TurnsGrid.class.php:349
+msgid "Too late. Random pick."
+msgstr "超时了，自动随机选族"
+
+#: lib/TurnsGrid.class.php:350
+msgid "Drafting ended."
+msgstr "BP结束了"
+
+#: lib/TurnsGrid.class.php:351
+msgid "Please paste this code into in-game chat: {0} for spectating later."
+msgstr "请复制此代码：{0} 给观战的人看BP"
+
+#: lib/TurnsGrid.class.php:352
+msgid "Use this code: {0} to spectate later."
+msgstr "用此代码：{0} 在之后可旁观"
+
+#: lib/TurnsGrid.class.php:353
+msgid "Click {0} to let the host start the draft."
+msgstr "点击 {0} 让主机开始本BP"
+
+#: lib/TurnsGrid.class.php:354
+msgid "Ready"
+msgstr "准备"
+
+#: lib/TurnsGrid.class.php:355
+msgid "get ready!"
+msgstr "准备了！"
+
+#: lib/TurnsGrid.class.php:356
+msgid "Waiting for the guest captain to get ready."
+msgstr "等客机准备好"
+
+#: lib/TurnsGrid.class.php:357
+msgid "Waiting for the host captain to start the draft."
+msgstr "等主机开始本BP"
+
+#: lib/TurnsGrid.class.php:358
+msgid "Guest is ready."
+msgstr "客机准备好了"
+
+#: lib/TurnsGrid.class.php:359
+msgid "Send this code to spectators: {0}. "
+msgstr "将此代码发给观战的人：{0}"
+
+#: lib/TurnsGrid.class.php:360
+msgid "Click {0} to begin."
+msgstr "点击 {0} 以开始"
+
+#: lib/TurnsGrid.class.php:362
+msgid "Starting draft in... {0}"
+msgstr "BP即将开始... {0}"
+
+#: lib/TurnsGrid.class.php:363
+msgid "Waiting for the other captain... {0}"
+msgstr "等待另一位玩家... {0}"
+
+#: lib/TurnsGrid.class.php:364
+msgid "Starting spectating in... {0}"
+msgstr "旁观即将开始... {0}"
+
+#: lib/TurnsGrid.class.php:380
+msgid "Data connection issues."
+msgstr "数据链接问题"
+
+#: lib/TurnsGrid.class.php:421
+msgid "Captain"
+msgstr "玩家"
+
+#: lib/TurnsGrid.class.php:425
+msgid "Picks"
+msgstr "选族"
+
+#: lib/TurnsGrid.class.php:440
+msgid "Bans"
+msgstr "禁族"
+
+#: lib/TurnsGrid.class.php:467
+msgid "Host Captain"
+msgstr "主机"
+
+#: lib/TurnsGrid.class.php:468
+msgid "Guest Captain"
+msgstr "客机"
+
+#: lib/TurnsGrid.class.php:485 views/admin_edit.php:82 views/admin_edit.php:90
+msgid "Click to edit..."
+msgstr "点击以编辑..."
+
+#: lib/TurnsGrid.class.php:486 views/admin_edit.php:83 views/admin_edit.php:92
+#: views/home.php:111
+msgid "OK"
+msgstr "OK"
+
+#: models/draft.class.php:100 views/home.php:246 views/home.php:362
+msgid "1 v 1"
+msgstr "1 v 1"
+
+#: models/draft.class.php:102 views/home.php:247 views/home.php:363
+msgid "2 v 2"
+msgstr "2 v 2"
+
+#: models/draft.class.php:104 views/home.php:248 views/home.php:364
+msgid "3 v 3"
+msgstr "3 v 3"
+
+#: models/draft.class.php:106 views/home.php:249 views/home.php:365
+msgid "4 v 4"
+msgstr "4 v 4"
+
+#: models/draft.class.php:114
+msgid "Conquerors"
+msgstr "征服者"
+
+#: models/draft.class.php:116
+msgid "Forgotten"
+msgstr "失落帝国"
+
+#: models/draft.class.php:118
+msgid "Forgotten+African Kingdoms"
+msgstr "失落帝国+非洲王朝"
+
+#: models/draft.class.php:120 views/home.php:159
+msgid "Age of Empires II"
+msgstr "帝国时代2"
+
+#: models/draft.class.php:467
+msgid "Not started."
+msgstr "未开始"
+
+#: models/draft.class.php:473
+msgid "Wrong turn number."
+msgstr "错误的回合数"
+
+#: models/draft.class.php:479
+msgid "Already past last turn."
+msgstr "上回合已经过了"
+
+#: models/draft.class.php:487
+msgid "It's the opponent's turn."
+msgstr "本次是对手的回合"
+
+#: models/draft.class.php:492
+msgid "No such civilization."
+msgstr "无此民族"
+
+#: models/draft.class.php:496
+msgid "It's not your turn."
+msgstr "本次不是你的回合"
+
+#: models/draft.class.php:508
+msgid "This pick/ban is not allowed."
+msgstr "未允许BP"
+
+#: models/turn.class.php:239 models/turn.class.php:243
+#: models/turn.class.php:245 models/turn.class.php:255
+msgid "pick"
+msgstr "选"
+
+#: models/turn.class.php:240 models/turn.class.php:244
+#: models/turn.class.php:246 models/turn.class.php:256
+msgid "ban"
+msgstr "禁"
+
+#: models/turn.class.php:241 models/turn.class.php:257
+msgid "show picks"
+msgstr "显示选族"
+
+#: models/turn.class.php:242 models/turn.class.php:258
+msgid "show bans"
+msgstr "显示禁族"
+
+#: models/turn.class.php:247
+msgid "show"
+msgstr "显示"
+
+#: models/turn.class.php:248
+msgid "hide for pick"
+msgstr "隐藏选族"
+
+#: models/turn.class.php:249
+msgid "hide for ban"
+msgstr "隐藏禁族"
+
+#: models/turn.class.php:250
+msgid "hide civ"
+msgstr "隐藏民族"
+
+#: models/turn.class.php:259
+msgid "global pick"
+msgstr "全局选族"
+
+#: models/turn.class.php:260
+msgid "global ban"
+msgstr "全局禁族"
+
+#: models/turn.class.php:261
+msgid "exclusive pick"
+msgstr "特别选族"
+
+#: models/turn.class.php:262
+msgid "exclusive ban"
+msgstr "特别禁族"
+
+#: models/turn.class.php:263
+msgid "reveal all"
+msgstr "全部显示"
+
+#: models/turn.class.php:264
+msgid "disable pick"
+msgstr "禁止选族"
+
+#: models/turn.class.php:265
+msgid "disable ban"
+msgstr "禁止禁族"
+
+#: models/turn.class.php:266
+msgid "disable completely"
+msgstr "完全禁止"
+
+#: views/admin_edit.php:28
+msgid "There was an error sending a choice to the server."
+msgstr "发送选择至服务器时出现错误"
+
+#: views/admin_edit.php:53
+msgid "There was an error changing aoe version."
+msgstr "更换帝国版本时出现错误"
+
+#: views/admin_edit.php:91
+msgid "Cancel"
+msgstr "取消"
+
+#: views/admin_edit.php:98
+msgid "Done"
+msgstr "完成"
+
+#: views/admin_edit.php:116
+msgid "Admin turns"
+msgstr "裁判回合"
+
+#: views/admin_edit.php:124
+msgid "User turns"
+msgstr "玩家回合"
+
+#: views/admin_home.php:3
+msgid "Logout"
+msgstr "登出"
+
+#: views/admin_home.php:4
+msgid "Maintenance"
+msgstr "维护"
+
+#: views/admin_home.php:13
+msgid "New preset"
+msgstr "新预设"
+
+#: views/admin_home.php:23 views/admin_home.php:64 views/admin_home.php:74
+msgid "Name"
+msgstr "名字"
+
+#: views/admin_home.php:24
+msgid "Enabled"
+msgstr "启用"
+
+#: views/admin_home.php:25 views/admin_home.php:76
+msgid "Actions"
+msgstr "行为"
+
+#: views/admin_home.php:36
+msgid "true"
+msgstr "是"
+
+#: views/admin_home.php:38
+msgid "false"
+msgstr "否"
+
+#: views/admin_home.php:43
+msgid "enable"
+msgstr "启用"
+
+#: views/admin_home.php:45
+msgid "disable"
+msgstr "禁用"
+
+#: views/admin_home.php:63
+msgid "New tournament"
+msgstr "新赛事"
+
+#: views/admin_home.php:65
+msgid "Description"
+msgstr "描述"
+
+#: views/admin_home.php:75
+msgid "Query"
+msgstr "查询"
+
+#: views/admin_login.php:13 views/admin_login.php:17
+msgid "Login"
+msgstr "登录"
+
+#: views/admin_login.php:15
+msgid "Username"
+msgstr "用户名"
+
+#: views/admin_login.php:16
+msgid "Password"
+msgstr "密码"
+
+#: views/demo.php:57 views/home.php:181 views/home.php:349
+msgid "Practice"
+msgstr "练习"
+
+#: views/demo.php:60
+msgid "Make sure you read this!"
+msgstr "必读！"
+
+#: views/demo.php:61
+msgid ""
+"In Practice mode You control both player's picks and bans.The page looks "
+"just as if you were the blue player. <b>BUT</b>, while the yellow player's "
+"choices are grayed out and there is no highlight, you can still pick and ban "
+"civs for him by clicking on the civ."
+msgstr "练习模式下你能控制双方的BP。页面内看上去你是蓝色玩家，<b>但是</b>，当黄色玩家的选择变灰，且没有高亮显示，你仍然可以BP他的民族。"
+
+#: views/footer.php:5
+#, php-format
+msgid "Created by %s."
+msgstr "由 %s 创建。"
+
+#: views/footer.php:5
+msgid "For more AoC content visit:"
+msgstr "更多的帝国资源请访问："
+
+#: views/header.php:47
+msgid "back"
+msgstr "回退"
+
+#: views/home.php:110
+msgid "Click to set name..."
+msgstr "点击以创建ID..."
+
+#: views/home.php:132 views/home.php:166
+msgid "Welcome"
+msgstr "欢迎"
+
+#: views/home.php:133
+msgid ""
+"Looks like it's your first time here. First, set a captain name for yourself:"
+msgstr "看来你是初来乍到。首先给自己起个ID："
+
+#: views/home.php:135
+msgid "You can edit this anytime in the future by clicking your name."
+msgstr "任何时候都可以点击你的ID来修改它。"
+
+#: views/home.php:137
+msgid "Set name"
+msgstr "设置ID"
+
+#: views/home.php:138
+msgid "Make sure you read the rules!"
+msgstr "必读规则！"
+
+#: views/home.php:148
+msgid "switch theme"
+msgstr "切换主题"
+
+#: views/home.php:155
+msgid "admin"
+msgstr "管理员"
+
+#: views/home.php:171
+msgid "Host or Join"
+msgstr "创建主机或者加入"
+
+#: views/home.php:176 views/home.php:286
+msgid "Spectate"
+msgstr "观看"
+
+#: views/home.php:191
+msgid ""
+"Captains mode is a turn-based civilization picker. Each captain can <span "
+"class='green-glow'>pick</span> and <span class='red-glow'>ban</span> "
+"civilizations in a predefined order. Bans prevent the opponent's captain "
+"from picking the civilizations. "
+msgstr "Captains mode（直译队长模式，一般称为BP模式）是回合制的选民族方案。每个玩家可以"
+"以指定的顺序<span class='green-glow'>选</span>和<span class='red-glow'>禁</span>"
+"民族。禁的民族对方便不能使用。"
+
+#: views/home.php:192
+msgid ""
+"For each turn captains have <b>30 seconds</b>. In case of timeout a random "
+"civilization is picked for the captain or no civilization gets banned."
+msgstr "每回合玩家都有<b>30秒</b>时间。如果玩家超时，便会自动分配随机民族，或是不禁民族。"
+
+#: views/home.php:193
+msgid ""
+"There are also extension available for tournaments. <b>Hidden</b> option "
+"(black corners) hides the civilization choices until they are explicitely "
+"showed (visible in the timeline at the top). <b>Global</b> pick or bans "
+"disables the civilization for later turns. For other specific settings, "
+"please refer to the preset descriptions."
+msgstr "针对各种比赛也有专门的拓展功能。<b>隐藏</b>功能"
+"（黑色角落）会隐藏掉民族，直到民族被明确地"
+"显示（在顶部时间线可见）。<b>全局</b>的BP"
+"使以后的回合此民族也被禁用。"
+"其他一些特别的设定可以看预设的描述。"
+
+#: views/home.php:194
+msgid ""
+"<b>Practice</b> mode is for testing purposes, where both sides are "
+"controlled by a single player."
+msgstr "<b>练习</b>模式是用来测试的，两方都由你单人控制。"
+
+#: views/home.php:199
+msgid "Tournaments"
+msgstr "赛事"
+
+#: views/home.php:218 views/home.php:334
+msgid "Use preset"
+msgstr "使用预设"
+
+#: views/home.php:233
+msgid "Host draft"
+msgstr "做主机"
+
+#: views/home.php:244 views/home.php:360
+msgid "Quick draft"
+msgstr "快速BP"
+
+#: views/home.php:255
+msgid "Join existing draft"
+msgstr "加入已创建的BP"
+
+#: views/home.php:257 views/home.php:278
+msgid "code:"
+msgstr "代码："
+
+#: views/home.php:265
+msgid "Join"
+msgstr "加入"
+
+#: views/home.php:276
+msgid "I have a code"
+msgstr "我有代码"
+
+#: views/home.php:299
+msgid "Recent Drafts"
+msgstr "最近的BP"
+
+#: views/home.php:307
+msgid " vs "
+msgstr " vs "
+
+#: views/home.php:311
+msgid "Watch"
+msgstr "观看"
+
+#: views/home.php:313
+msgid "Watch Live"
+msgstr "观看直播"
+
+#: views/overlay.php:4
+msgid "Go to home page"
+msgstr "到主页"
+
+#: views/overlay.php:7
+msgid "Go back"
+msgstr "返回"
+
+#: views/overlay.php:13 views/overlay.php:24
+msgid "Please wait..."
+msgstr "请稍等..."
+
+#: views/overlay.php:14
+msgid "Waiting for the other captain to join."
+msgstr "等待另一位玩家加入。"
+
+#: views/overlay.php:15
+msgid "Send <b>privately</b> this code:"
+msgstr "用<b>私聊</b>发送此代码："
+
+#: views/overlay.php:17
+msgid "or url: "
+msgstr "或者链接："
+
+#: views/overlay.php:25
+msgid "Waiting for captains to join. Send this code first to host then guest:"
+msgstr "等待玩家加入，此代码先发给主机，后发给客机："
+
+#: views/overlay.php:26
+msgid "Alternatively send this url to the host captian:"
+msgstr "或是发送此链接给主机："
+
+#: views/overlay.php:28
+msgid "and this url to the guest captain:"
+msgstr "此链接给客机："
+
+#: views/overlay.php:34 views/overlay.php:39 views/overlay.php:44
+#: views/overlay.php:49
+msgid "Error"
+msgstr "错误"
+
+#: views/overlay.php:35
+msgid "A network error occured, please try a new game."
+msgstr "网络错误发生，请重开。"
+
+#: views/overlay.php:40
+msgid ""
+"This game was not finished due to network error or one of the users "
+"disconnecting."
+msgstr "由于网络问题或者玩家掉线，本局没有完成。"
+
+#: views/overlay.php:45
+msgid "The other user disconnected."
+msgstr "另一玩家掉线。"
+
+#: views/overlay.php:50
+msgid "No such game found."
+msgstr "没有找到这一局。"
+
+#: views/spectate.php:77
+msgid "play"
+msgstr "开始"
+
+#: views/spectate.php:78
+msgid "pause"
+msgstr "暂停"
+
+#: views/spectate.php:81
+msgid "next"
+msgstr "下一个"
+
+#: views/spectate.php:84
+msgid "fast-forward"
+msgstr "快进"
+
+# random civ name
+msgid "Random"
+msgstr "随机"
+
+# raja civ names
+msgid "Burmese"
+msgstr "缅甸"
+
+msgid "Khmer"
+msgstr "高棉"
+
+msgid "Malay"
+msgstr "马来"
+
+msgid "Vietnamese"
+msgstr "越南"
