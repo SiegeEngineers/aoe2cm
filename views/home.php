@@ -136,6 +136,7 @@ if (empty($_COOKIE['username'])){
 		<select id="languages">
 			<option value="en_US" data-img-src="images/flags/en_US.png" <?php if($_SESSION["lang"] == 'en_US') echo "selected"; ?>>&nbsp;</option>
 			<option value="hu_HU" data-img-src="images/flags/hu_HU.png" <?php if($_SESSION["lang"] == 'hu_HU') echo "selected"; ?>>&nbsp;</option>
+			<option value="zh_CN" data-img-src="images/flags/zh_CN.png" <?php if($_SESSION["lang"] == 'zh_CN') echo "selected"; ?>>&nbsp;</option>
 		</select>
 	</div>
 	<!-- a href="<?php echo ROOTDIR;?>/admin"><span class="admin-link"><?php echo _("admin"); ?></span></a -->
